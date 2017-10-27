@@ -1,0 +1,103 @@
+
+//Variable to store the friends data             
+var friends = [
+  {
+  "name":"Beanie",
+  "photo":"https://static1.squarespace.com/static/56d61ffeb654f980b27fca3b/t/586be0c8f7e0ab61f658f896/1483464904891/Old+School+%281%29+PCV.jpg",
+  "scores":[
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+},
+{
+  "name":"Peppers",
+  "photo":"https://pbs.twimg.com/media/B9yF57mCcAIvJSK.jpg:large",
+  "scores":[
+      3,
+      4,
+      5,
+      5,
+      1,
+      2,
+      3,
+      3,
+      5,
+      2
+    ]
+},
+{
+  "name":"Frank",
+  "photo":"http://drinkinggamezone.com/img/games/movie/old-school.jpg",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+},
+{
+  "name":"Gonzalo",
+  "photo":"https://i.ytimg.com/vi/3rkAjnFB1g4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByQjElAp0qP757urPD3_Qg3MaZJg",
+  "scores":[
+      5,
+      3,
+      4,
+      4,
+      2,
+      3,
+      1,
+      1,
+      3,
+      5
+    ]
+},
+{
+  "name":"Blue",
+  "photo":"http://image2.123tagged.com/images/o/old_school_wrestling-25311.jpg",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+},
+{
+  "name":"Mitch",
+  "photo":"https://newslang89.files.wordpress.com/2011/04/oldschool2.png",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+];
+
+
+module.exports = friends;

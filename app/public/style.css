@@ -1,0 +1,42 @@
+.jumbotron{
+	position:relative;
+	top: 50px;
+	background-color: 	#66CDAA;
+}
+
+#api-text{
+	position:relative;
+	top: 50px;
+}
+
+#h1-home{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+}
+
+.h2-home{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+}
+.modal-title{
+	font-family: 'Nunito', sans-serif;
+	color: #666666;
+}
+#matchName{
+	font-family: 'Nunito', sans-serif;
+	color: #666666;
+}
+.img-responsive{
+	height: 200px;
+	width: 300px;
+}
+.survey-txt{
+	font-family: 'Nunito', sans-serif;
+	color: #666666;
+}
+.container{
+	margin: 50px 70px;
+}
+.chosen-select{
+	margin-bottom: 10px;
+}
